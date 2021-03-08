@@ -1,0 +1,16 @@
+// import Link from "next/link";
+// import Proptypes from "prop-types";
+// import {Container} from "react-bootstrap";
+// import HTMLParser from "react-html-parser";
+//
+// const Slide = ({data}) => {
+//     return (
+//
+//     );
+// };
+//
+// Slide.propTypes = {
+//     data: Proptypes.object.isRequired
+// };
+//
+// export default Slide;

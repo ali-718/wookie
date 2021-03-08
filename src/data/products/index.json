@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "sku": "asdf101",
+    "name": "Nike Revolution 5",
+    "ratings": 4.5,
+    "discount": null,
+    "discountDuration": null,
+    "badge": "Featured",
+    "totalSale": 56,
+    "vendor": "NIKE",
+    "type": ["tending", "featured", "new_arrivals", "specials", "best_seller"],
+    "categories": ["casual", "women", "shirt"],
+    "tags": ["shirt", "women"],
+    "thumbs": ["/assets/images/product/revolution/product1.jpg"],
+    "previewImages": [
+      "/assets/images/product/revolution/product1.jpg",
+      "/assets/images/product/revolution/product2.jpg",
+      "/assets/images/product/revolution/product3.jpg",
+      "/assets/images/product/revolution/product4.jpg",
+      "/assets/images/product/revolution/product5.jpg",
+      "/assets/images/product/revolution/product6.jpg",
+      "/assets/images/product/revolution/product7.jpg"
+    ],
+    "excerpt": "The Nike Revolution 5 cushions your stride with soft foam to keep you running in comfort. Lightweight knit material wraps your foot in breathable support, while a minimalist design fits in just about anywhere your day takes you.",
+    "description": "The Nike Revolution 5 cushions your stride with soft foam to keep you running in comfort. Lightweight knit material wraps your foot in breathable support, while a minimalist design fits in just about anywhere your day takes you.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Grey",
+        "color": {
+          "name": "Black",
+          "thumb": "",
+          "code": "#000000"
+        },
+        "materials": [
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 1600
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 1600
+          },
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 1600
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 0
+          },
+          {
+            "name": "x",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Anthracite",
+        "color": {
+          "name": "Anthracite",
+          "thumb": "",
+          "code": "#383e42"
+        },
+        "materials": [
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 1600
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 1600
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 6
+          },
+          {
+            "name": "m",
+            "stock": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sku": "bsdf121",
+    "name": "ADVANTAGE SHOES",
+    "ratings": 5,
+    "badge": null,
+    "totalSale": 44,
+    "vendor": "ADIDAS",
+    "type": ["tending", "featured", "new_arrivals", "specials", "best_seller"],
+    "categories": ["men", "women", "dresses"],
+    "tags": ["cap", "men", "winter"],
+    "thumbs": ["/assets/images/product/advantage/1.jpeg"],
+    "previewImages": [
+      "/assets/images/product/advantage/1.jpeg",
+      "/assets/images/product/advantage/2.jpeg",
+      "/assets/images/product/advantage/3.jpeg",
+      "/assets/images/product/advantage/4.jpeg",
+      "/assets/images/product/advantage/5.jpeg"
+    ],
+    "excerpt": "Stripped-down sports style. Showing off a clean look, these tennis-inspired shoes have a smooth leather upper. Perforated 3-Stripes detail the sides. A cushioned sockliner brings comfort to every step.",
+    "description": "Stripped-down sports style. Showing off a clean look, these tennis-inspired shoes have a smooth leather upper. Perforated 3-Stripes detail the sides. A cushioned sockliner brings comfort to every step.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Black",
+        "color": {
+          "name": "black",
+          "thumb": "",
+          "code": "black"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 1749
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 1749
+          },
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 1749
+          },
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-06.jpg",
+            "price": 1749
+          }
+        ],
+        "sizes": [
+          {
+            "name": "m",
+            "stock": 5
+          },
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "xl",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "White",
+        "color": {
+          "name": "white",
+          "thumb": "",
+          "code": "white"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 1749
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 1749
+          },
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 1749
+          },
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-06.jpg",
+            "price": 1749
+          }
+        ],
+        "sizes": [
+          {
+            "name": "m",
+            "stock": 5
+          },
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "xl",
+            "stock": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sku": "csdf131",
+    "name": "DURAMO 9",
+    "ratings": 4,
+    "discount": null,
+    "discountDuration": null,
+    "badge": "Featured",
+    "totalSale": 55,
+    "vendor": "ADIDAS",
+    "type": ["tending", "featured", "new_arrivals", "specials", "best_seller"],
+    "categories": ["women", "jeans", "pants"],
+    "tags": ["jeans", "pants", "fashion"],
+    "thumbs": ["/assets/images/product/duramo/1.jpeg"],
+    "previewImages": [
+      "/assets/images/product/duramo/1.jpeg",
+      "/assets/images/product/duramo/2.jpeg",
+      "/assets/images/product/duramo/3.jpeg",
+      "/assets/images/product/duramo/4.jpeg",
+      "/assets/images/product/duramo/5.jpeg",
+      "/assets/images/product/duramo/6.jpeg",
+      "/assets/images/product/duramo/7.jpeg"
+    ],
+    "excerpt": "Comfort off the court. These kids' tennis-inspired shoes have a smooth leather-like upper with perforated 3-Stripes. A plush sockliner cushions their every step.",
+    "description": "Comfort off the court. These kids' tennis-inspired shoes have a smooth leather-like upper with perforated 3-Stripes. A plush sockliner cushions their every step.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Pink",
+        "color": {
+          "name": "pink",
+          "thumb": "",
+          "code": "pink"
+        },
+        "materials": [
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 112
+          },
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 54
+          },
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 93.33
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-06.jpg",
+            "price": 99.99
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 12
+          },
+          {
+            "name": "m",
+            "stock": 4
+          },
+          {
+            "name": "x",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Black",
+        "color": {
+          "name": "Black",
+          "thumb": "",
+          "code": "black"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 62.12
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 23.43
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 2
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "x",
+            "stock": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "sku": "dsdf141",
+    "name": "GALAXY 5 SHOES",
+    "ratings": 2.5,
+    "badge": "Featured",
+    "totalSale": 91,
+    "vendor": "NIKE",
+    "type": ["tending", "featured", "new_arrivals", "specials", "best_seller"],
+    "categories": ["women", "jeans", "pants"],
+    "tags": ["jeans", "pants", "fashion"],
+    "thumbs": ["/assets/images/product/galaxy/2.jpeg"],
+    "previewImages": [
+      "/assets/images/product/galaxy/1.jpeg",
+      "/assets/images/product/galaxy/2.jpeg",
+      "/assets/images/product/galaxy/3.jpeg",
+      "/assets/images/product/galaxy/4.jpeg",
+      "/assets/images/product/galaxy/5.jpeg"
+    ],
+    "excerpt": "Make every mile count. One mile, two miles or five, these adidas running shoes make each step a good one. Your feet practically sink into the plush cushioning. It feels like you could run forever, or at least take another lap. And maybe another after that.",
+    "description": "Make every mile count. One mile, two miles or five, these adidas running shoes make each step a good one. Your feet practically sink into the plush cushioning. It feels like you could run forever, or at least take another lap. And maybe another after that.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Black",
+        "color": {
+          "name": "black",
+          "thumb": "/assets/images/product/product-04.jpg",
+          "code": "black"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 1249
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-06.jpg",
+            "price": 1249
+          }
+        ],
+        "sizes": [
+          {
+            "name": "m",
+            "stock": 0
+          },
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "xl",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Gray",
+        "color": {
+          "name": "Gray",
+          "thumb": "/assets/images/product/product-04-04.jpg",
+          "code": "gray"
+        },
+        "materials": [
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 1245
+          },
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 1290
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 1249
+          },
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 1249
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 2
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "x",
+            "stock": 7
+          }
+        ]
+      }
+    ]
+  }
+]
